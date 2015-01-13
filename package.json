@@ -1,0 +1,14 @@
+{
+  "name": "my_tweets",
+  "version": "1.0.0",
+  "description": "My first node.js app to get my 10 recent timeline tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarret Moses",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.10.8"
+  }
+}
