@@ -9,6 +9,13 @@
   "author": "Jarret Moses",
   "license": "BSD",
   "dependencies": {
-    "express": "~4.10.8"
+    "ejs": "^2.1.4",
+    "express": "~4.10.8",
+    "express-session": "^1.10.1",
+    "express-sessions": "^1.0.5",
+    "node-twitter-api": "^1.5.0",
+    "request": "^2.51.0",
+    "twit": "^1.1.19",
+    "underscore": "^1.7.0"
   }
 }
